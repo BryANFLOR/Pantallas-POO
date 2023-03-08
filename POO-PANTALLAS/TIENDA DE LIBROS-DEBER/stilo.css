@@ -1,0 +1,20 @@
+body{
+    background-color:blanchedalmond;
+}
+.card-body{
+    background-color:#D4AC0D  ;
+}
+
+.card-header{
+    background-color:#D4AC0D   ;
+}
+.botones{
+    margin-top: 20px;
+}
+img{
+    margin-top: 20px;
+}
+.btn{
+    color:white;
+    background-color:black;
+}
